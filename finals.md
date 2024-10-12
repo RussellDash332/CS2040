@@ -9,7 +9,7 @@ You need some practice!
 |True, False, Explain (Part 1)|[✅](finals/practices/CS2040_TF_Practice_1.pdf)|[✅](finals/practices/CS2040_TF_Practice_1_Solutions.pdf)|AY19/20 Special Term 2|
 |True, False, Explain (Part 2)|[✅](finals/practices/CS2040_TF_Practice_2.pdf)|[✅](finals/practices/CS2040_TF_Practice_2_Solutions.pdf)|AY19/20 Special Term 2|
 |True, False, Explain (Part 3)|[✅](finals/practices/CS2040_TF_Practice_3.pdf)|[✅](finals/practices/CS2040_TF_Practice_3_Solutions.pdf)|AY19/20 Special Term 2|
-|Mock Finals|[✅](finals/practices/CS2040_Mock_Finals.pdf)|[✅](finals/practices/CS2040_Mock_Finals_Solutions.pdf)|Prepared by Wang Zhi Jian. Some questions taken from materials used in CS2040 AY18/19 Sem 1.|
+|Mock Finals|[✅](finals/practices/CS2040_Mock_Finals.pdf)|[✅](finals/practices/CS2040_Mock_Finals_Solutions.pdf)|Prepared by Wang Zhi Jian. Some questions taken from materials used in CS2040 AY18/19 Sem 1|
 
 ## Written Quizzes
 

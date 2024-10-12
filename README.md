@@ -11,7 +11,7 @@ See [my other GitHub repository](https://github.com/RussellDash332/slides/tree/m
 See the full list of past midterms [here](./midterms.md).
 
 ## Finals
-See the full list of past finals [here](./midterms.md).
+See the full list of past finals [here](./finals.md).
 
 ## Contributing
 Just submit a pull request.
