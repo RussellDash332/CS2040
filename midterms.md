@@ -3,7 +3,7 @@
 ## Written Quizzes
 
 |Title|Questions Only|Answers|Remark|
-|:----------------|:----:|:----:|:----|
+|:--------------------------|:--:|:--:|:--------------|
 |CS2040 AY18/19 Sem 1 Quiz 1|[✅](midterms/wq/CS2040%201819%20Semester%201%20Quiz%201.pdf)|[✅](midterms/wq/CS2040%201819%20Semester%201%20Quiz%201%20Ans.pdf)||
 |CS2040S AY19/20 Sem 1 Quiz 1|[✅](midterms/wq/CS2040S%201920%20Semester%201%20Quiz%201.pdf)|[✅](midterms/wq/CS2040S%201920%20Semester%201%20Quiz%201%20Ans.pdf)||
 
@@ -13,7 +13,7 @@ For all the code-related questions, just try to think of the pseudocode, no need
 Also, **ignore the bloom filter questions** as it is outside the scope of CS2040 (only for CS2040S).
 
 |Title|Questions Only|Answers|Remark|
-|:----------------|:----:|:----:|:----|
+|:--------------------------|:--:|:--:|:--------------|
 |CS1020 AY13/14 Sem 1|[✅](midterms/CS1020%201314%20Semester%201.pdf)|❌||
 |CS2040 AY17/18 ST 2|[✅](midterms/CS2040%201718%20Special%20Term%202.pdf)|❌|Relevant for CS2040 midterm: A1-7, B1-3, F2|
 |CS2040 AY18/19 Sem 1|[✅](midterms/CS2040%201819%20Semester%201.pdf)|[✅](midterms/CS2040%201819%20Semester%201%20Ans.pdf)|Relevant for CS2040 midterm: Q1a, Q3-4|

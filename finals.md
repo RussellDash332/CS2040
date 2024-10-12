@@ -5,7 +5,7 @@
 You need some practice!
 
 |Title|Questions Only|Answers|Remark|
-|:----------------|:----:|:----:|:----|
+|:--------------------------|:--:|:--:|:--------------|
 |True, False, Explain (Part 1)|[✅](finals/practices/CS2040_TF_Practice_1.pdf)|[✅](finals/practices/CS2040_TF_Practice_1_Solutions.pdf)|AY19/20 Special Term 2|
 |True, False, Explain (Part 2)|[✅](finals/practices/CS2040_TF_Practice_2.pdf)|[✅](finals/practices/CS2040_TF_Practice_2_Solutions.pdf)|AY19/20 Special Term 2|
 |True, False, Explain (Part 3)|[✅](finals/practices/CS2040_TF_Practice_3.pdf)|[✅](finals/practices/CS2040_TF_Practice_3_Solutions.pdf)|AY19/20 Special Term 2|
@@ -14,7 +14,7 @@ You need some practice!
 ## Written Quizzes
 
 |Title|Questions Only|Answers|Remark|
-|:----------------|:----:|:----:|:----|
+|:--------------------------|:--:|:--:|:--------------|
 |CS2010 AY11/12 Sem 1 Quiz 2|[✅](finals/wq/CS2010%201112%20Semester%201%20Quiz%202.pdf)|❌|Section 4|
 |CS2010 AY12/13 Sem 1 Quiz 1|[✅](finals/wq/CS2010%201213%20Semester%201%20Quiz%201.pdf)|❌|Section 3, 4, 5|
 |CS2010 AY12/13 Sem 1 Quiz 2|[✅](finals/wq/CS2010%201213%20Semester%201%20Quiz%202.pdf)|❌|Section 3, 4|
@@ -28,7 +28,7 @@ You need some practice!
 ## Actual Finals
 
 |Title|Questions Only|Answers|Remark|
-|:----------------|:----:|:----:|:----|
+|:--------------------------|:--:|:--:|:--------------|
 |CS2010 AY11/12 Sem 1|[✅](finals/CS2010%201112%20Semester%201.pdf)|❌||
 |CS2010 AY13/14 Sem 1|[✅](finals/CS2010%201314%20Semester%201.pdf)|❌|Section 2 (except Q5), 3, 4.1|
 |CS2010 AY15/16 Sem 1|[✅](finals/CS2010%201516%20Semester%201.pdf)|❌|Section B, C.1-C.3, D|
