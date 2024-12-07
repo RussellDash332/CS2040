@@ -54,5 +54,6 @@ You need some practice!
 |CS2040 AY22/23 ST 2|[✅](finals/CS2040%202223%20Special%20Term%202.pdf)|[✅](finals/CS2040%202223%20Special%20Term%202%20Ans.pdf)||
 |CS2040 AY23/24 Sem 1|❌|[✅](finals/CS2040%202324%20Semester%201%20Ans.pdf)||
 |CS2040 AY23/24 Sem 2|❌|[✅](finals/CS2040%202324%20Semester%202%20Ans.pdf)|Russell TA-ed this iteration (4/4)|
+|CS2040 AY24/25 Sem 1|❌|[✅](finals/CS2040%202425%20Semester%201%20Ans.pdf)||
 
 RussellDash332 &copy; 2024
