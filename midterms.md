@@ -33,6 +33,7 @@ Also, **ignore the bloom filter questions** as it is outside the scope of CS2040
 |CS2040 AY23/24 Sem 1|❌|[✅](midterms/CS2040%202324%20Semester%201%20Ans.pdf)||
 |CS2040S AY23/24 Sem 1|[✅](midterms/CS2040S%202324%20Semester%201.pdf)|❌||
 |CS2040 AY23/24 Sem 2|[✅](midterms/CS2040%202324%20Semester%202.pdf)|[✅](midterms/CS2040%202324%20Semester%202%20Ans.pdf)|Russell TA-ed this iteration (4/4)|
+|CS2040 AY24/25 Sem 1|❌|[✅](midterms/CS2040%202425%20Semester%201%20Ans.pdf)||
 |CS2040S AY24/25 Sem 1|[✅](midterms/CS2040S%202425%20Semester%201.pdf)|❌||
 
 RussellDash332 &copy; 2024
