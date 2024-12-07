@@ -1,6 +1,6 @@
 # CS2040
 
-Collection of CS2040(S) PYPs - last updated **12 October 2024**
+Collection of CS2040(S) PYPs - last updated **8 December 2024**
 
 Full repository: [https://github.com/RussellDash332/CS2040](https://github.com/RussellDash332/CS2040)
 
