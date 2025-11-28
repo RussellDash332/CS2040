@@ -56,5 +56,6 @@ You need some practice!
 |CS2040 AY23/24 Sem 2|❌|[✅](finals/CS2040%202324%20Semester%202%20Ans.pdf)|Russell TA-ed this iteration (4/4)|
 |CS2040 AY24/25 Sem 1|❌|[✅](finals/CS2040%202425%20Semester%201%20Ans.pdf)||
 |CS2040 AY24/25 Sem 2|[✅](finals/CS2040%202425%20Semester%202.pdf)|[✅](finals/CS2040%202425%20Semester%202%20Ans.pdf)||
+|CS2040 AY24/25 Sem 2|[✅](finals/CS2040%202526%20Semester%201.pdf)|❌||
 
 RussellDash332 &copy; 2025
