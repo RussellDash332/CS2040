@@ -58,4 +58,4 @@ You need some practice!
 |CS2040 AY24/25 Sem 2|[✅](finals/CS2040%202425%20Semester%202.pdf)|[✅](finals/CS2040%202425%20Semester%202%20Ans.pdf)||
 |CS2040 AY25/26 Sem 1|[✅](finals/CS2040%202526%20Semester%201.pdf)|❌||
 
-RussellDash332 &copy; 2025
+RussellDash332 &copy; 2026

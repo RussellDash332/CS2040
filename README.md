@@ -12,4 +12,4 @@ Full repository: [https://github.com/RussellDash332/CS2040](https://github.com/R
 ## Contributing
 Just submit a pull request!
 
-RussellDash332 &copy; 2025
+RussellDash332 &copy; 2026
