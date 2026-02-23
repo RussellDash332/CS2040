@@ -38,5 +38,3 @@ Also, **ignore the bloom filter questions** as it is outside the scope of CS2040
 |CS2040 AY24/25 Sem 1|❌|[✅](midterms/CS2040%202425%20Semester%201%20Ans.pdf)||
 |CS2040S AY24/25 Sem 1|[✅](midterms/CS2040S%202425%20Semester%201.pdf)|❌||
 |CS2040 AY25/26 Sem 1|[✅](midterms/CS2040%202526%20Semester%201.pdf)|❌||
-
-RussellDash332 &copy; 2026

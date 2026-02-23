@@ -3,8 +3,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - midterms.md
-  - finals.md
-
 theme: jekyll-theme-cayman
