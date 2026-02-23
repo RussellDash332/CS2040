@@ -4,3 +4,6 @@ relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  auto_ids: true

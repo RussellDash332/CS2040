@@ -5,9 +5,37 @@
 
 @media screen and (min-width: 64em) {
   .main-content {
-      max-width:90%;
+      max-width: 90%;
       padding: 2rem 6rem;
       margin: 0 auto;
-      font-size: 1.1rem
+      font-size: 1.1rem;
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+}
+
+h1 a.anchor,
+h2 a.anchor,
+h3 a.anchor,
+h4 a.anchor,
+h5 a.anchor,
+h6 a.anchor {
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-size: 0.8em;
+  text-decoration: none;
+  opacity: 0;
+  color: #999;
+  transition: opacity 0.2s;
+}
+
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+  opacity: 1;
 }
