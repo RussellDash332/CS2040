@@ -1,6 +1,4 @@
-# Midterms
-
-## Written Quizzes
+### Written Quizzes
 
 |Title|Questions Only|Answers|Remark|
 |:--------------------------|:--:|:--:|:--------------|
@@ -9,7 +7,7 @@
 |CS2040 AY25/26 Sem 1 Written Assessment (A)|❌|[✅](midterms/wq/CS2040%202526%20Semester%201%20WA-A%20Ans.pdf)||
 |CS2040 AY25/26 Sem 1 Written Assessment (B)|❌|[✅](midterms/wq/CS2040%202526%20Semester%201%20WA-B%20Ans.pdf)||
 
-## Actual Midterms
+### Actual Midterms
 
 For all the code-related questions, just try to think of the pseudocode, no need to write an actual code on midterms.
 Also, **ignore the bloom filter questions** as it is outside the scope of CS2040 (only for CS2040S).
