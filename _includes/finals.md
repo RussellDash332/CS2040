@@ -9,9 +9,9 @@ You need some practice!
 |True, False, Explain (Part 3)|[✅](finals/practices/CS2040_TF_Practice_3.pdf)|[✅](finals/practices/CS2040_TF_Practice_3_Solutions.pdf)|AY19/20 Special Term 2|
 |Mock Finals|[✅](finals/practices/CS2040_Mock_Finals.pdf)|[✅](finals/practices/CS2040_Mock_Finals_Solutions.pdf)|Prepared by Wang Zhi Jian. Some questions taken from materials used in CS2040 AY18/19 Sem 1|
 
-### Written Quizzes
+### Pre-Finals Written Quizzes
 
-The topics cover more on the later half of the semester, compared to the previous written quizzes.
+The topics cover more on the later half of the semester.
 
 |Title|Questions Only|Answers|Remark|
 |:--------------------------|:--:|:--:|:--------------|
