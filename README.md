@@ -18,8 +18,6 @@ My own tutorial slides: [https://github.com/RussellDash332/slides/tree/main/CS20
 
 Just submit a pull request! Ensure that you have updated the links in the `_includes` folder.
 
-RussellDash332 &copy; 2026
-
 <script>
 document.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(function(h) {
   if (!h.id) return;
@@ -30,3 +28,5 @@ document.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(function(h) {
   h.appendChild(a);
 });
 </script>
+
+RussellDash332 &copy; 2026
