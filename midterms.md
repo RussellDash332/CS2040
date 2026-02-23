@@ -6,6 +6,8 @@
 |:--------------------------|:--:|:--:|:--------------|
 |CS2040 AY18/19 Sem 1 Quiz 1|[✅](midterms/wq/CS2040%201819%20Semester%201%20Quiz%201.pdf)|[✅](midterms/wq/CS2040%201819%20Semester%201%20Quiz%201%20Ans.pdf)||
 |CS2040S AY19/20 Sem 1 Quiz 1|[✅](midterms/wq/CS2040S%201920%20Semester%201%20Quiz%201.pdf)|[✅](midterms/wq/CS2040S%201920%20Semester%201%20Quiz%201%20Ans.pdf)||
+|CS2040 AY25/26 Sem 1 Written Assessment (A)|❌|[✅](midterms/wq/CS2040%202526%20Semester%201%20WA-A%20Ans.pdf)||
+|CS2040 AY25/26 Sem 1 Written Assessment (B)|❌|[✅](midterms/wq/CS2040%202526%20Semester%201%20WA-B%20Ans.pdf)||
 
 ## Actual Midterms
 
@@ -35,5 +37,6 @@ Also, **ignore the bloom filter questions** as it is outside the scope of CS2040
 |CS2040 AY23/24 Sem 2|[✅](midterms/CS2040%202324%20Semester%202.pdf)|[✅](midterms/CS2040%202324%20Semester%202%20Ans.pdf)|Russell TA-ed this iteration (4/4)|
 |CS2040 AY24/25 Sem 1|❌|[✅](midterms/CS2040%202425%20Semester%201%20Ans.pdf)||
 |CS2040S AY24/25 Sem 1|[✅](midterms/CS2040S%202425%20Semester%201.pdf)|❌||
+|CS2040 AY25/26 Sem 1|[✅](midterms/CS2040%202526%20Semester%201.pdf)|❌||
 
 RussellDash332 &copy; 2026
